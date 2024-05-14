@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+
+.card {
+    border-radius: 50px;
+    
+}
+
+
+a {
+    text-decoration: none   ;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+a:hover{
+    background-color: white;
+    color: black;
+}
